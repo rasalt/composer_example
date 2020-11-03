@@ -1,0 +1,7 @@
+Flask
+flask
+google-cloud-error-reporting
+google-cloud-storage
+SQLAlchemy
+PyMySQL
+gunicorn
